@@ -67,14 +67,14 @@ A10. Insuffcient Logging & Monitoring 記錄與監控不足
 
 測試案例:
 
-##  A4:XML External Entities (XXE)外部處理器漏洞 
+##  A8:Insecure Deserialization 不安全的反序列化漏洞 
 漏洞說明:
 
 測試工具:
 
 測試案例:
 
-##  A4:XML External Entities (XXE)外部處理器漏洞 
+##  A9:Using Components with Known Vulnerabilities 使用已知漏洞元件 
 漏洞說明:
 
 測試工具:
@@ -82,35 +82,9 @@ A10. Insuffcient Logging & Monitoring 記錄與監控不足
 測試案例:
 
 
+##  A10. Insuffcient Logging & Monitoring 記錄與監控不足 
+漏洞說明:
 
+測試工具:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+測試案例:
